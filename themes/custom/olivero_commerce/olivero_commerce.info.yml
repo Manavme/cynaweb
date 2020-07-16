@@ -1,0 +1,6 @@
+name: Olivero Commerce
+type: theme
+description: This is a fluffy sub theme of Classy
+core_version_requirement: ^8 || ^9
+# Defines the base theme
+base theme: olivero
